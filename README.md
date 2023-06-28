@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on applied computer science cource
-- 🌱 I’m currently learning web apps
-- 👯 I’m looking to collaborate with proficers
-- 🤔 I’m looking for help with students.
+- 🔭 I’m currently working on applied computer science cource.
+- 🌱 I’m currently learning web apps.
+- 👯 I’m looking to collaborate with proficers.
 - 💬 Ask me about web apps.
 - 📫 How to reach me: i will stay in village o appartments.
 - 😄 Pronouns: nothing
